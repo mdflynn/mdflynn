@@ -1,13 +1,13 @@
 ### Hi, I'm Mike. Thanks for looking at my portfolio!
 
 <a href="https://github.com/mdflynn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
 </a>
 <a href="https://github.com/mdflynn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" height="200" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" height="200" width="300"/>
 </a>
 <a href="https://github.com/mdflynn/overlook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=overlook&theme=tokyonight" height="200" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=overlook&theme=tokyonight" height="200" width="400"/>
 </a>
 
 Here are some ideas to get you started:
