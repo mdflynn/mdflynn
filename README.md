@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/mdflynn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/mdflynn/overlook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=overlook&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
 </a>
 <a href="https://github.com/mdflynn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" height="200" width="500"/>
 </a>
+<a href="https://github.com/mdflynn/overlook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=overlook&theme=tokyonight" height="200" width="500"/>
+</a>
+
