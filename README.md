@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![mdflynn's github stats](https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn)](https://github.com/mdflynn/github-readme-stats)
+
