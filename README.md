@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mdflynn's github stats](https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn)](https://github.com/mdflynn/github-readme-stats)
+<a href="https://github.com/mdflynn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/mdflynn/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=convoychat" />
+</a>
 
