@@ -13,8 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=whats-cookin&theme=tokyonight" height="200" width="400"/>
 </a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming a Software Developer at Turing School of Software & Design.
 - 🌱 I’m currently learning React.js, Javascript, and SASS
 - 💬 Ask me about 
