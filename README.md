@@ -9,6 +9,9 @@
 <a href="https://github.com/mdflynn/overlook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=overlook&theme=tokyonight" height="200" width="400"/>
 </a>
+<a href="https://github.com/mdflynn/whats-cookin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=whats-cookin&theme=tokyonight" height="200" width="400"/>
+</a>
 
 Here are some ideas to get you started:
 
