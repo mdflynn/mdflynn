@@ -1,5 +1,13 @@
 ![Banner](https://i.imgur.com/nxGNQnl.png "Mike Flynn")
-======
+---
+<div align="center">
+  <a href="https://www.linkedin.com/in/mikeflynnmba/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="https://www.codewars.com/users/mdflynn"><img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" /></a>
+  <a href="mailto:mdflynn34@outlook.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&logo=google&colorB=f2c236" /></a>
+</div>
+
+---
+
 <a href="https://github.com/mdflynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
 </a>
@@ -15,7 +23,7 @@
 
 - 🔭  I’m currently working on becoming a Software Developer at [Turing School of Software & Design](https://turing.io/).
 - 🌱  I’m currently learning React.js, Javascript, and SASS
-- 💬  Ask me about 
+- 💬  Ask me about
   - Fitness
   - Space
   - Festivals
