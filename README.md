@@ -24,15 +24,11 @@
 </div>
 
 - 🔭  I’m currently working on becoming a Software Developer at [Turing School of Software & Design](https://turing.io/).
-- 🌱  I’m currently learning React.js, Javascript, and SASS
+- 🌱  I’m currently learning React.js and Redux
 - 💬  Ask me about
   - Fitness
   - Space
   - Festivals
-- 📫  How to reach me:
-  - [email](mailto:mdflynn34@outlook.com)
-  - [LinkedIn](https://www.linkedin.com/in/mikeflynnmba/)
-  - [Twitter](https://twitter.com/mikeflynncodes)
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: I was voted Steamboat Springs, CO Most Eligible Bachelor, even though I lived there less than a year. It's a fun story!
 
