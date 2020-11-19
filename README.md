@@ -6,7 +6,6 @@
   <a href="https://twitter.com/mikeflynncodes"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-b1361e.svg?style=for-the-badge&logo=Twitter&colorB=14171A">
   <a href="mailto:mdflynn34@outlook.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </div>
-
 ---
 <div align="center">
   <a href="https://github.com/mdflynn/github-readme-stats">
@@ -23,15 +22,6 @@
   </a>
 </div>
 
-- 🔭  I’m currently working on becoming a Software Developer at [Turing School of Software & Design](https://turing.io/).
-- 🌱  I’m currently learning React.js and Redux
-- 💬  Ask me about
-  - Fitness
-  - Space
-  - Festivals
-- 😄  Pronouns: he/him
-- ⚡  Fun fact: I was voted Steamboat Springs, CO Most Eligible Bachelor, even though I lived there less than a year. It's a fun story!
-
 ### Languages
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
@@ -41,3 +31,14 @@
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
 </div>
+
+---
+
+- 🔭  I’m currently working on becoming a Software Developer at [Turing School of Software & Design](https://turing.io/).
+- 🌱  I’m currently learning React.js and Redux
+- 💬  Ask me about
+  - Fitness
+  - Space
+  - Festivals
+- 😄  Pronouns: he/him
+- ⚡  Fun fact: I was voted Steamboat Springs, CO Most Eligible Bachelor, even though I lived there less than a year. It's a fun story!
