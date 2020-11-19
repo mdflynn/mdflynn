@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/Ne3cq04.png "Michael Flynn")
+![Banner](https://i.imgur.com/TXgxfTo.png "Mike Flynn")
 ------
 <a href="https://github.com/mdflynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
