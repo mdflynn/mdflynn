@@ -1,4 +1,4 @@
-![Mike Flynn](https://i.imgur.com/k8i0qT5.png "Mike Flynn")
+![Mike Flynn](https://i.imgur.com/EthTjc4.png "Mike Flynn")
 
 ---
 
