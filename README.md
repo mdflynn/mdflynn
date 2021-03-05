@@ -18,15 +18,15 @@
   <a href="https://github.com/mdflynn/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" height="200" width="300"/>
   </a>
+  <a href="https://github.com/ufomg/ufomg-fe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufomg&repo=ufomg-fe&theme=tokyonight" height="200" width="400"/>
+  </a>
    <a href="https://github.com/mdflynn/game-sleuth">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
   </a>
-   <a href="https://github.com/mdflynn/rancid-tomatillos">
+<!--    <a href="https://github.com/mdflynn/rancid-tomatillos">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=rancid-tomatillos&theme=tokyonight" height="200" width="400"/>
-  </a>
-     <a href="https://github.com/ufomg/ufomg-fe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufomg&repo=ufomg-fe&theme=tokyonight" height="200" width="400"/>
-  </a>
+  </a> -->
 </div>
 
 ---
