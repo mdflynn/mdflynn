@@ -53,8 +53,8 @@
 
 ---
 
-- 🔭  I’m currently working on becoming a Software Developer at [Turing School of Software & Design](https://turing.io/).
-- 🌱  I’m currently learning React.js and Redux
+- 🔭  I’m recently graduated from [Turing School of Software & Design](https://turing.io/) as a Front-End Software Engineer.
+- 🌱  I’m currently learning Angular
 - 💬  Ask me about
   - Fitness
   - Space
