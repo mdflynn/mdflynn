@@ -53,8 +53,8 @@
 
 ---
 
-- 🔭  I’m recently graduated from [Turing School of Software & Design](https://turing.io/) as a Front-End Software Engineer.
-- 🌱  I’m currently learning Angular
+- 🔭  I recently graduated from [Turing School of Software & Design](https://turing.io/) as a Front-End Software Engineer.
+- 🌱  I’m currently diving deeper into React and TypeScript.
 - 💬  Ask me about
   - Fitness
   - Space
